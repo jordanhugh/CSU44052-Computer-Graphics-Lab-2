@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(15,46): warning C4042: 'pVS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(15,70): warning C4042: 'pFS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(19,8): warning C4042: 'pVS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(19,8): warning C4042: 'pFS': has bad storage class
+  Shader.cpp
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(15,46): warning C4042: 'pVS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(15,70): warning C4042: 'pFS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(19,8): warning C4042: 'pVS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.h(19,8): warning C4042: 'pFS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.cpp(60,53): warning C4042: 'pVS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.cpp(60,77): warning C4042: 'pFS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.cpp(98,38): warning C4042: 'pVS': has bad storage class
+C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Lab2\Shader.cpp(98,62): warning C4042: 'pFS': has bad storage class
+  VAO.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 396 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab2.vcxproj -> C:\Users\hughj\OneDrive\Documents\Work\Doctoriate\Teaching\Computer Graphics\Lab2\202223\Lab2\Release\Lab2.exe
